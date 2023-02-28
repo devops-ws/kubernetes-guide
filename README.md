@@ -17,3 +17,4 @@
 | [lens](https://k8slens.dev/) | |
 | [Kubernetes dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters |
 | [Monokle](https://monokle.io/home) | Monokle is a set of tools for creating and maintaining high-quality Kubernetes configurations throughout the entire application lifecycle. |
+| [KuberSphere](https://github.com/kubesphere/kubesphere/) | |
