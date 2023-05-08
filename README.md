@@ -25,3 +25,5 @@
 | Name | Description |
 |---|---|
 | [kubekey](https://github.com/kubesphere/kubekey) | |
+| [kubespray](https://github.com/kubernetes-sigs/kubespray) | Deploy a Production Ready Kubernetes Cluster |
+| [kubeasz](https://github.com/easzlab/kubeasz) | 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响 |
