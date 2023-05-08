@@ -18,3 +18,10 @@
 | [Kubernetes dashboard](https://github.com/kubernetes/dashboard) | General-purpose web UI for Kubernetes clusters |
 | [Monokle](https://monokle.io/home) | Monokle is a set of tools for creating and maintaining high-quality Kubernetes configurations throughout the entire application lifecycle. |
 | [KuberSphere](https://github.com/kubesphere/kubesphere/) | |
+| [Sealos](https://github.com/labring/sealos) | |
+
+## All Kinds of Kubernetes Installation Tool
+
+| Name | Description |
+|---|---|
+| [kubekey](https://github.com/kubesphere/kubekey) | |
