@@ -15,6 +15,7 @@ Category: distribution
 | Repository | Description |
 |---|---|
 | [k3d-io/k3d](https://github.com/k3d-io/k3d) | Little helper to run CNCF&#39;s k3s in Docker |
+| [xiaods/k8e](https://github.com/xiaods/k8e) | K8E - Kubernetes Easy Engine |
 | [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | Kubernetes IN Docker - local clusters for testing Kubernetes |
 | [canonical/microk8s](https://github.com/canonical/microk8s) | MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. |
 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally |
