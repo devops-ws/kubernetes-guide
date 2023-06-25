@@ -1,0 +1,3 @@
+github: canonical/microk8s
+description: "MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge."
+group: distribution

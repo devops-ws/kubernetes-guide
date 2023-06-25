@@ -1,0 +1,3 @@
+github: kubernetes/dashboard
+description: General-purpose web UI for Kubernetes clusters
+group: dashboard

@@ -1,0 +1,3 @@
+github: kubernetes-sigs/kind
+description: "Kubernetes IN Docker - local clusters for testing Kubernetes"
+group: distribution

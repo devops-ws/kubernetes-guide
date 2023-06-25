@@ -1,0 +1,3 @@
+github: derailed/k9s
+description: K9s is a terminal based UI to interact with your Kubernetes clusters.
+group: dashboard

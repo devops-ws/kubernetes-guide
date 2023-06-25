@@ -1,0 +1,3 @@
+github: kubeshop/monokle
+description: Monokle is a set of tools for creating and maintaining high-quality Kubernetes configurations throughout the entire application lifecycle.
+group: dashboard

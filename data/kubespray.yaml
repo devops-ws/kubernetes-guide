@@ -1,0 +1,3 @@
+github: kubernetes-sigs/kubespray
+description: Deploy a Production Ready Kubernetes Cluster
+group: installer

@@ -1,0 +1,3 @@
+github: k3d-io/k3d
+description: "Little helper to run CNCF's k3s in Docker"
+group: distribution

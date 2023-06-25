@@ -1,0 +1,3 @@
+github: easzlab/kubeasz
+description: 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+group: installer
