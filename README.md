@@ -28,6 +28,8 @@ Category: installer
 | [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) | Deploy a Production Ready Kubernetes Cluster |
 
 
+curl -OL https://virtualization.kubesphere.cloud/v1.6.1/kubesphere-virtualization-x86_64-v1.6.1.tar.gz
+
 ## 收录条件
 
 * 必须是对应的核心项目，必须包含核心代码
