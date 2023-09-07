@@ -1,0 +1,3 @@
+github: k3d-io/k3d
+description: "Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds"
+group: distribution
